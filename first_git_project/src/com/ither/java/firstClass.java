@@ -8,6 +8,7 @@ public class firstClass {
         System.out.println("hello word!");
         System.out.println("hello word!");
         test();
+        //添加注解
 
     }
 
